@@ -1,4 +1,6 @@
 [core]
-    remote = storage
+    remote = myremote
 ['remote "storage"']
     url = s3://Buckets/mlopstestbucket
+['remote "myremote"']
+    url = s3://mlopstestbucket

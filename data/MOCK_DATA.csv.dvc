@@ -1,0 +1,6 @@
+outs:
+- md5: dc1fdc30db512c33d9bca05a96568671
+  size: 62300
+  isexec: true
+  hash: md5
+  path: MOCK_DATA.csv
